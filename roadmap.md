@@ -13,17 +13,20 @@
 - Promise
 - Async/await
 - Error handling
-- Fetch
 - Modules
 - Iterators and generators
-- Regular Expressions
-### Documentation
+- Regular expressions
+### Server requests
+- Fetch
+- XMLHttpRequest
+- WebSocket
 ### Data
 - LocalStorage
 - IndexedDB
 - Cookie
 - CacheStorage
-### Best Practices
+### Documentation
+### Best practices
 - Naming
 - Linter
 - Reusable
@@ -64,51 +67,54 @@
 - yarn
 ### Module bundlers
 #### Webpack
-##### dev/prod config
+##### Dev/prod config
 ##### Optimization
 ##### Plugins
-##### dev tools
+##### Dev tools
 - Source maps
 - Hot reloading
 ### CSS Pre(post)processors
 - SASS/SCSS
 - Postcss
 ### Babel
+### Template engine
+- Slim
+- Pug
 ### Docker
-### Best Practices
+### Best practices
 
 ## React
-### Main Concepts
+### Main concepts
 #### JSX
 #### Rendering
 #### Components and props
-#### State Management
+#### State management
 - Component State/Context API
 - Redux
 #### Lifecycle
-#### Handling Events
-### Code-Splitting
-### Type Checkers
+#### Event handling
+### Code-splitting
+### Type checkers
 - PropTypes
 - TypeScript
-### Error Boundaries
+### Error boundaries
 ### Refs
-### Higher-Order Components
+### Higher-order components
 ### Hooks
 
 ## Work process
-### Problem Solving Skills
+### Problem solving skills
 - Оценка задач
 - Коммуникация с другими отделами
 - Декомпозиция
 - Соблюдение сроков
 - Code Review
-### Open Source Commiter
+### Open source commiter
 ### Support
-- Code Tuning (это про производительность и оптимизацию: не просто сделал задачу, а сделал оптимально)
-- God-Touch (boyscout) (оставляет код после себя лучше, небольшой рефакторинг во время задачи)
+- Code tuning (производительность и оптимизация: не просто сделал задачу, а оптимально)
+- God-touch (boyscout) (оставляет код после себя лучше, небольшой рефакторинг во время задачи)
 - Documentation support
-- comments TODO FIX NOTE
+- Сomments TODO FIX NOTE
 - Читает исходники
 ### Git
 - Git flow
@@ -116,10 +122,10 @@
 - Commits naming
 - Fixup and rebase
 - CI/CD gitlab
+### Release Managment
 
 ## Architecture
-### Network
-- HTTP/HTTPS
+### HTTP/HTTPS
 ### [Паттерны проектирования](https://refactoring.guru/ru/design-patterns)
 
 ## CodeStyle
