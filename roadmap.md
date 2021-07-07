@@ -1,13 +1,13 @@
 # Компетенции
 
-## JavaScript
-### Syntax and basic
-### DOM manipulation
-### Events
+## JavaScript 80
+### 15 Syntax and basic
+### 10 DOM manipulation
+### 6 Events (2)
 - Event handling
 - Bubbling
 - Custom events
-### Facility
+### 16 Facility (2)
 - Objects
 - Classes
 - Promise
@@ -16,120 +16,128 @@
 - Modules
 - Iterators and generators
 - Regular expressions
-### Server requests
+### 6 Server requests (2)
 - Fetch
 - XMLHttpRequest
 - WebSocket
-### Data
+### 8 Data (2)
 - LocalStorage
 - IndexedDB
 - Cookie
 - CacheStorage
-### Documentation
-### Best practices
+### 5 Documentation
+### 6 Best practices (2)
 - Naming
 - Linter
 - Reusable
+### 8 TypeScript
 
-## CSS
-### Syntax and basic
-### Selectors and pseudo
-### Layout
+
+## CSS 40 
+### 10 Syntax and basic
+### 3 Selectors and pseudo
+### 10 Layout (2)
 - Box model
 - Display
 - Positioning
 - Flex Box
 - Grid
-### Animation
-### Transform
-### Responsive
-### Media queries
-### Best practices
+### 3 Animation
+### 3 Transform
+### 3 Responsive
+### 3 Media queries
+### 5 Best practices (2,5)
 - UI/UX
 - Code
 
-## HTML
-- Basic
-- Semantic
-- Accessibility
-- SEO
 
-## Testing
-- Наличие
-- Покрытие
-- Скриншотные тесты
-- Unit
-- Functional
+## HTML 40
+- 14 Syntax and basic
+- 10 Semantic
+- 8 Accessibility
+- 8 SEO
 
-## Build tools
-### Package managers
+
+## Testing 20
+- 4 Наличие
+- 4 Покрытие
+- 4 Скриншотные тесты
+- 4 Unit
+- 4 Functional
+
+
+## Build tools 22
+### 2 Package managers (1)
 - npm
 - yarn
-### Module bundlers
-#### Webpack
+### 6 Module bundlers
+#### 6 Webpack (1,5)
 ##### Dev/prod config
 ##### Optimization
 ##### Plugins
 ##### Dev tools
 - Source maps
 - Hot reloading
-### CSS Pre(post)processors
+### 4 CSS Pre(post)processors (2)
 - SASS/SCSS
 - Postcss
-### Babel
-### Template engine
+### 2 Babel
+### 4 Template engine (2)
 - Slim
 - Pug
-### Docker
-### Best practices
+### 2 Docker
+### 2 Best practices
 
-## React
-### Main concepts
-#### JSX
-#### Rendering
-#### Components and props
-#### State management
+
+## React 45
+### 25 Main concepts
+#### 3 JSX
+#### 3 Rendering
+#### 5 Components and props
+#### 6 State management (3)
 - Component State/Context API
 - Redux
-#### Lifecycle
-#### Event handling
-### Code-splitting
-### Type checkers
+#### 4 Lifecycle
+#### 3 Event handling
+### 4 Code-splitting
+### 2 Type checkers
 - PropTypes
-- TypeScript
-### Error boundaries
-### Refs
-### Higher-order components
-### Hooks
+### 3 Error boundaries
+### 2 Refs
+### 5 Higher-order components
+### 5 Hooks
 
-## Work process
-### Problem solving skills
+
+## Work process 25
+### 5 Problem solving skills
 - Оценка задач
 - Коммуникация с другими отделами
 - Декомпозиция
 - Соблюдение сроков
 - Code Review
-### Open source commiter
-### Support
+### 4 Open source commiter
+### 5 Support (1)
 - Code tuning (производительность и оптимизация: не просто сделал задачу, а оптимально)
 - God-touch (boyscout) (оставляет код после себя лучше, небольшой рефакторинг во время задачи)
 - Documentation support
 - Сomments TODO FIX NOTE
 - Читает исходники
-### Git
+### 4 Git (1)
 - Git flow
 - Branches naming
 - Commits naming
 - Fixup and rebase
-- CI/CD gitlab
-### Release Managment
+### 4 CI/CD gitlab
+### 3 Release Managment
 
-## Architecture
+
+## Architecture 20
 ### HTTP/HTTPS
 ### [Паттерны проектирования](https://refactoring.guru/ru/design-patterns)
 
-## CodeStyle
-### Principles
+
+## CodeStyle 21
+### 20 Principles (3)
 - YAGNI (You Aren’t Gonna Need It)
 - DRY (Don’t Repeat Yourself)
 - KISS (Keep It Simple, Stupid)
@@ -138,5 +146,6 @@
 - Avoid Premature Optimization
 - Бритва Оккама
 
-## Ruby
+
+## Ruby 7
 - Syntax and basic
