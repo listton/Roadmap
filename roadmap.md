@@ -149,3 +149,6 @@
 
 ## Ruby 7
 - Syntax and basic
+- Blocks, Procs & Lambdas
+- Iterators (each, map, reduce, select...)
+- Ruby on Rails (Controllers, View, Helper, Model)
