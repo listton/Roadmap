@@ -1,13 +1,13 @@
 # Компетенции
 
-## JavaScript 80
-### 15 Syntax and basic
-### 10 DOM manipulation
-### 6 Events (2)
+## [JavaScript](https://github.com/listton/Roadmap/blob/master/resources.md#javascript) 80
+### 20 [Syntax and basic](https://github.com/listton/Roadmap/blob/master/resources.md#syntax-and-basic)
+### 5 [DOM manipulation](https://github.com/listton/Roadmap/blob/master/resources.md#dom-manipulation)
+### 6 [Events](https://github.com/listton/Roadmap/blob/master/resources.md#events) (2)
 - Event handling
 - Bubbling
 - Custom events
-### 16 Facility (2)
+### 20 [Facility](https://github.com/listton/Roadmap/blob/master/resources.md#facility) (2.5)
 - Objects
 - Classes
 - Promise
@@ -16,62 +16,66 @@
 - Modules
 - Iterators and generators
 - Regular expressions
-### 6 Server requests (2)
+### 6 [Server requests](https://github.com/listton/Roadmap/blob/master/resources.md#server-requests) (2)
 - Fetch
 - XMLHttpRequest
 - WebSocket
-### 8 Data (2)
+### 8 [Data](https://github.com/listton/Roadmap/blob/master/resources.md#data) (2)
 - LocalStorage
 - IndexedDB
 - Cookie
 - CacheStorage
-### 5 Documentation
-### 6 Best practices (2)
+### 5 Documentation (в т. ч. самодокументируемый код)
+### 10 [Best practices](https://github.com/listton/Roadmap/blob/master/resources.md#best-practices) (2)
 - Naming
 - Linter
 - Reusable
-### 8 TypeScript
+- Optimization
+- Tricks
 
 
 ## CSS 40 
-### 10 Syntax and basic
-### 3 Selectors and pseudo
-### 10 Layout (2)
+### 5 Syntax and basic
+### 5 Selectors and pseudo
+### 15 Layout (3)
 - Box model
 - Display
 - Positioning
 - Flex Box
 - Grid
-### 3 Animation
-### 3 Transform
-### 3 Responsive
-### 3 Media queries
-### 5 Best practices (2,5)
+### 1.5 Animation
+### 1.5 Transform
+### 2 Responsive
+### 2 Media queries
+### 2 BEM
+### 6 Best practices (1.5)
 - UI/UX
 - Code
+- Optimization
+- Tricks
 
 
-## HTML 40
-- 14 Syntax and basic
-- 10 Semantic
-- 8 Accessibility
-- 8 SEO
+## HTML 20
+- 7 Syntax and basic
+- 3 Semantic
+- 5 Accessibility
+- 5 SEO
 
 
-## Testing 20
-- 4 Наличие
-- 4 Покрытие
-- 4 Скриншотные тесты
-- 4 Unit
-- 4 Functional
+## [Testing](https://github.com/listton/Roadmap/blob/master/resources.md#testing) 15
+- 3 Наличие
+- 3 Покрытие
+- 3 Скриншотные тесты
+- 3 Unit
+- 3 Functional
 
 
-## Build tools 22
+## Build tools 30
 ### 2 Package managers (1)
 - npm
 - yarn
-### 6 Module bundlers
-#### 6 Webpack (1,5)
+### 8 Module bundlers
+#### 8 Webpack (2)
 ##### Dev/prod config
 ##### Optimization
 ##### Plugins
@@ -82,62 +86,67 @@
 - SASS/SCSS
 - Postcss
 ### 2 Babel
-### 4 Template engine (2)
+### 10 [Template engine](https://github.com/listton/Roadmap/blob/master/resources.md#template-engine) (5)
 - Slim
 - Pug
 ### 2 Docker
 ### 2 Best practices
 
 
-## React 45
-### 25 Main concepts
-#### 3 JSX
-#### 3 Rendering
-#### 5 Components and props
-#### 6 State management (3)
+## [React](https://github.com/listton/Roadmap/blob/master/resources.md#react) 25
+### 15 Main concepts
+#### 2 JSX
+#### 2 Rendering
+#### 3 Components and props
+#### 2 State management
 - Component State/Context API
-- Redux
-#### 4 Lifecycle
+#### 3 Lifecycle
 #### 3 Event handling
-### 4 Code-splitting
-### 2 Type checkers
+### 2 Code-splitting
+### 1 Type checkers
 - PropTypes
-### 3 Error boundaries
+### 1 Error boundaries
 ### 2 Refs
-### 5 Higher-order components
-### 5 Hooks
+### 2 Higher-order components
+### 2 Hooks
 
 
-## Work process 25
-### 5 Problem solving skills
+## [Work process](https://github.com/listton/Roadmap/blob/master/resources.md#work-process) 35
+### 10 [Problem solving skills](https://github.com/listton/Roadmap/blob/master/resources.md#problem-solving-skills) (2)
 - Оценка задач
 - Коммуникация с другими отделами
 - Декомпозиция
 - Соблюдение сроков
 - Code Review
-### 4 Open source commiter
-### 5 Support (1)
+### 3 Open source commiter
+### 9 [Support](https://github.com/listton/Roadmap/blob/master/resources.md#support) (1.5)
 - Code tuning (производительность и оптимизация: не просто сделал задачу, а оптимально)
 - God-touch (boyscout) (оставляет код после себя лучше, небольшой рефакторинг во время задачи)
 - Documentation support
 - Сomments TODO FIX NOTE
 - Читает исходники
-### 4 Git (1)
-- Git flow
-- Branches naming
-- Commits naming
-- Fixup and rebase
+- Управление техническим долгом
+### 6 [Git](https://github.com/listton/Roadmap/blob/master/resources.md#git)
+- 3 Git flow
+- 1 Branches naming
+- 1 Commits naming
+- 1 Fixup and rebase
 ### 4 CI/CD gitlab
 ### 3 Release Managment
 
 
-## Architecture 20
-### HTTP/HTTPS
-### [Паттерны проектирования](https://refactoring.guru/ru/design-patterns)
+## [Architecture](https://github.com/listton/Roadmap/blob/master/resources.md#architecture) 34
+- 20 Архитектура проекта
+- 14 Паттерны проектирования
+
+## [Systems and networks](https://github.com/listton/Roadmap/blob/master/resources.md#systems-and-networks) 20
+- Rendering
+- Environment variables
+- HTTP/HTTPS
 
 
-## CodeStyle 21
-### 20 Principles (3)
+## [CodeStyle](https://github.com/listton/Roadmap/blob/master/resources.md#codestyle) 21
+### 21 Principles (3)
 - YAGNI (You Aren’t Gonna Need It)
 - DRY (Don’t Repeat Yourself)
 - KISS (Keep It Simple, Stupid)
@@ -147,8 +156,8 @@
 - Бритва Оккама
 
 
-## Ruby 7
-- Syntax and basic
-- Blocks, Procs & Lambdas
-- Iterators (each, map, reduce, select...)
-- Ruby on Rails (Controllers, View, Helper, Model)
+## Ruby 20
+- 11 Syntax and basic
+- 3 Blocks, Procs & Lambdas
+- 3 Iterators (each, map, reduce, select...)
+- 3 Ruby on Rails (Controllers, View, Helper, Model)
