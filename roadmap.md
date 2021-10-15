@@ -55,11 +55,17 @@
 - Tricks
 
 
-## HTML 20
+## Markup 28
+### 11 [Template engine](https://github.com/listton/Roadmap/blob/master/resources.md#template-engine)
+- 7 Slim
+- 4 Pug
+### HTML 15
 - 7 Syntax and basic
-- 3 Semantic
-- 5 Accessibility
-- 5 SEO
+- 2 Semantic
+- 3 Accessibility
+- 3 SEO
+### JSON 1
+### YAML 1
 
 
 ## [Testing](https://github.com/listton/Roadmap/blob/master/resources.md#testing) 15
@@ -70,7 +76,7 @@
 - 3 Functional
 
 
-## Build tools 30
+## Build tools 22
 ### 2 Package managers (1)
 - npm
 - yarn
@@ -86,9 +92,7 @@
 - SASS/SCSS
 - Postcss
 ### 2 Babel
-### 10 [Template engine](https://github.com/listton/Roadmap/blob/master/resources.md#template-engine) (5)
-- Slim
-- Pug
+### 2 Gulp
 ### 2 Docker
 ### 2 Best practices
 
