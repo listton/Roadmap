@@ -88,13 +88,14 @@
 ##### Dev tools
 - Source maps
 - Hot reloading
-### 4 CSS Pre(post)processors (2)
+### 3 CSS Pre(post)processors (1)
 - SASS/SCSS
+- Stylus
 - Postcss
 ### 2 Babel
 ### 2 Gulp
 ### 2 Docker
-### 2 Best practices
+### 3 Best practices
 
 
 ## [React](https://github.com/listton/Roadmap/blob/master/resources.md#react) 25
@@ -136,7 +137,7 @@
 - 1 Commits naming
 - 1 Fixup and rebase
 ### 4 CI/CD gitlab
-### 3 Release Managment
+### 3 Release Management
 
 
 ## [Architecture](https://github.com/listton/Roadmap/blob/master/resources.md#architecture) 34
@@ -144,9 +145,10 @@
 - 14 Паттерны проектирования
 
 ## [Systems and networks](https://github.com/listton/Roadmap/blob/master/resources.md#systems-and-networks) 20
-- Rendering
-- Environment variables
-- HTTP/HTTPS
+- 5 Rendering
+- 5 Environment variables
+- 5 HTTP/HTTPS
+- 5 Networks
 
 
 ## [CodeStyle](https://github.com/listton/Roadmap/blob/master/resources.md#codestyle) 21
